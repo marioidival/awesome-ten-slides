@@ -6,14 +6,15 @@ Here's the idea: take a concept, and make ten slides about it. Ten slides is sho
 
 The concept of ten slides is similar to [The Feynman Technique](https://www.youtube.com/watch?v=_f-qkGJBPts), used to study of some concept, you need specify topic, write about it, give some examples until cover the concept.
 
+This project is inspired by [Rust in ten slides](https://github.com/steveklabnik/rust-in-ten-slides).
 
 ### Topics
 
 - [Programming Languages](#programming-languages)
   - [Rust](#rust)
-  
-  
-  
+
+
+
 ### Programming Languages
 
 *Concepts about specific language*
